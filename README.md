@@ -1,6 +1,6 @@
 # Project Bloodlines
 
-It is web-app used to track and record our family's lineage, utilizing the capability of tech and memory.
+A web-app used to track and record our family's lineage and history, utilizing the capability of tech and memory.
 
 ## 2026 Serious Development
 
